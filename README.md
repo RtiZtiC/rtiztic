@@ -1,4 +1,6 @@
-### Hi there 👋
+## Check out my beautiful website !!!!
+### [BEAUTIFUL WEBSITE](https://loquacious-squirrel-cd1663.netlify.app/)
+##### Waaaaaaaahhh!!!!
 
 <!--
 **RtiZtiC/rtiztic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
