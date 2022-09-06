@@ -12,7 +12,7 @@ ___
 #### -non-responsive ####
 ## p1 : [https://startling-valkyrie-9bad5f.netlify.app](https://startling-valkyrie-9bad5f.netlify.app)
 ## p2 : [https://marvelous-gaufre-c75ed2.netlify.app](https://marvelous-gaufre-c75ed2.netlify.app)
-## p3 : [ttps://whimsical-bunny-b4d69f.netlify.app](ttps://whimsical-bunny-b4d69f.netlify.app)
+## p3 : [https://whimsical-bunny-b4d69f.netlify.app](https://whimsical-bunny-b4d69f.netlify.app)
 ## p4 : [https://cool-flan-57adb0.netlify.app](https://cool-flan-57adb0.netlify.app)
 ## p5 : [https://fabulous-tapioca-043dd4.netlify.app](https://fabulous-tapioca-043dd4.netlify.app)
 ## p6 : [https://rad-syrniki-691d04.netlify.app](https://rad-syrniki-691d04.netlify.app)
